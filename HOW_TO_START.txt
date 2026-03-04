@@ -1,0 +1,62 @@
+════════════════════════════════════════════════════════════
+  🚀 HOW TO START ICAN APP MARKETPLACE
+════════════════════════════════════════════════════════════
+
+METHOD 1: Desktop Shortcut (EASIEST!)
+──────────────────────────────────────
+1. Find "START_MARKETPLACE.command" on your Desktop
+2. Double-click it
+3. The marketplace will open in Terminal and start!
+
+METHOD 2: From Project Folder
+──────────────────────────────────────
+1. Open Finder
+2. Go to: /Users/icanacademy/ican-app-marketplace
+3. Double-click "START_MARKETPLACE.command"
+
+METHOD 3: Using Terminal
+──────────────────────────────────────
+1. Open Terminal
+2. Run these commands:
+   cd /Users/icanacademy/ican-app-marketplace
+   ./START_MARKETPLACE.command
+
+════════════════════════════════════════════════════════════
+
+📱 ACCESSING THE MARKETPLACE
+════════════════════════════════════════════════════════════
+
+After starting, you'll see URLs like:
+
+  • http://localhost:3010 - Use this on YOUR computer
+  • http://192.168.68.106:3010 - Share this with other teachers
+
+Open either URL in your web browser (Chrome, Safari, etc.)
+
+════════════════════════════════════════════════════════════
+
+⚠️  IMPORTANT NOTES
+════════════════════════════════════════════════════════════
+
+• Keep the Terminal window OPEN while using the marketplace
+• To STOP the server: Press Ctrl+C in the Terminal window
+• You can minimize the Terminal window, but don't close it!
+• All teachers must be on the same Wi-Fi network
+
+════════════════════════════════════════════════════════════
+
+🆘 TROUBLESHOOTING
+════════════════════════════════════════════════════════════
+
+Problem: "Cannot open file" error
+Solution: Right-click the .command file → Open → Click "Open"
+
+Problem: Server won't start
+Solution: Make sure port 3010 is not already in use
+
+Problem: Can't access from other computers
+Solution: Check that all devices are on the same Wi-Fi network
+
+════════════════════════════════════════════════════════════
+
+Enjoy using ICAN App Marketplace! 🎓

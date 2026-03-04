@@ -1,0 +1,172 @@
+=================================================
+           ICAN APP MARKETPLACE - LIKES REPORT
+=================================================
+Generated: 11/14/2025, 6:13:16 PM
+=================================================
+
+App ID: 1
+Title: ICAN Stellar Daily Monitoring
+Creator: [Edward]
+Total Likes: 1
+Liked by:
+  - Test (2025-11-03 09:37:00)
+
+--------------------------------------------------
+
+App ID: 2
+Title: Student Report Viewer
+Creator: [Edward]
+Total Likes: 1
+Liked by:
+  - Test (2025-11-03 09:37:05)
+
+--------------------------------------------------
+
+App ID: 4
+Title: Essay Evaluator
+Creator: [Eunice]
+Total Likes: 1
+Liked by:
+  - Edward (2025-10-30 01:56:25)
+
+--------------------------------------------------
+
+App ID: 5
+Title: Speech Coach
+Creator: [Chester]
+Total Likes: 1
+Liked by:
+  - Edward (2025-10-30 01:56:37)
+
+--------------------------------------------------
+
+App ID: 6
+Title: SPEAKING BUDDY
+Creator: [Leah]
+Total Likes: 1
+Liked by:
+  - Edward (2025-10-30 01:56:53)
+
+--------------------------------------------------
+
+App ID: 7
+Title: All in One Dictionary
+Creator: [Marc]
+Total Likes: 4
+Liked by:
+  - eunice (2025-11-06 05:52:51)
+  - Chester (2025-10-30 02:39:32)
+  - Edward (2025-10-30 01:56:58)
+  - Minmin (2025-10-29 07:27:03)
+
+--------------------------------------------------
+
+App ID: 8
+Title: Storyteller
+Creator: [Marc]
+Total Likes: 1
+Liked by:
+  - Edward (2025-10-30 01:57:07)
+
+--------------------------------------------------
+
+App ID: 9
+Title: TOEFL IBT Writing Task 1
+Creator: [Minmin]
+Total Likes: 2
+Liked by:
+  - Karen (2025-11-03 03:00:59)
+  - Edward (2025-10-30 01:57:15)
+
+--------------------------------------------------
+
+App ID: 10
+Title: Sentence Scramble
+Creator: [Minmin]
+Total Likes: 1
+Liked by:
+  - Edward (2025-10-30 01:57:22)
+
+--------------------------------------------------
+
+App ID: 11
+Title: New TOEFL Listening Practice Test (Module 1 and 2)
+Creator: [Cha]
+Total Likes: 1
+Liked by:
+  - Edward (2025-10-30 01:57:29)
+
+--------------------------------------------------
+
+App ID: 12
+Title: Digital SAT Grammar
+Creator: [Minmin]
+Total Likes: 1
+Liked by:
+  - Edward (2025-10-30 01:57:36)
+
+--------------------------------------------------
+
+App ID: 13
+Title: StorySpark
+Creator: [Minmin]
+Total Likes: 3
+Liked by:
+  - eunice (2025-10-30 08:56:51)
+  - Chester (2025-10-30 02:39:18)
+  - Mikay (2025-10-30 02:32:43)
+
+--------------------------------------------------
+
+App ID: 14
+Title: Speaking Fluency Coach
+Creator: [Eunice]
+Total Likes: 1
+Liked by:
+  - Minmin (2025-10-30 05:26:20)
+
+--------------------------------------------------
+
+App ID: 15
+Title: Sage, The Word-Weaver
+Creator: [Minmin]
+Total Likes: 1
+Liked by:
+  - eunice (2025-10-30 08:58:01)
+
+--------------------------------------------------
+
+App ID: 27
+Title: AI Assessment Generator
+Creator: [Paula]
+Total Likes: 1
+Liked by:
+  - eunice (2025-11-06 05:43:14)
+
+--------------------------------------------------
+
+App ID: 46
+Title: Caterpillar Checker
+Creator: [Minmin]
+Total Likes: 1
+Liked by:
+  - Ianne (2025-11-12 06:10:41)
+
+--------------------------------------------------
+
+App ID: 69
+Title: TOEFL Speaking: Take an Interview Task Simulator
+Creator: [Karen]
+Total Likes: 2
+Liked by:
+  - Gemma (2025-11-13 10:35:24)
+  - Bruce (2025-11-13 10:35:10)
+
+--------------------------------------------------
+
+=================================================
+SUMMARY
+=================================================
+Total Apps with Likes: 17
+Total Likes: 24
+=================================================
